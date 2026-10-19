@@ -1,0 +1,8 @@
+{
+  "name": "K-NICKS Sneaker Store",
+  "description": "Website bán giày trực tuyến đa thương hiệu cao cấp K-NICKS (Nike, Adidas, Puma, Converse) với giao diện hiện đại, responsive và quản lý toàn diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
